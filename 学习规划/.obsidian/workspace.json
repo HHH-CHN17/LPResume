@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "527fe31441e02348",
+    "id": "d5386f2d57a4dda9",
     "type": "split",
     "children": [
       {
-        "id": "f678601d13eafb2f",
+        "id": "0ada70a578f2ce08",
         "type": "tabs",
         "children": [
           {
-            "id": "c456482f7819a75c",
+            "id": "e937b350274e3ffb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7a553319edb6468a",
+    "id": "98c306565befec86",
     "type": "split",
     "children": [
       {
-        "id": "a85b6e5930db1589",
+        "id": "e5a6489b24c9a095",
         "type": "tabs",
         "children": [
           {
-            "id": "ecda9a6d68c5c90c",
+            "id": "9376c5b8649acce3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "d42fab7f872a4659",
+            "id": "747eb0438cb915a6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "50e04b3c2aa66090",
+            "id": "fb5ea66fa52048b2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "447367fdc4c5a473",
+    "id": "d23566c34dd4b37a",
     "type": "split",
     "children": [
       {
-        "id": "abbb26b598739e91",
+        "id": "55d6f1f3662580ea",
         "type": "tabs",
         "children": [
           {
-            "id": "c9131c3c1248fcc0",
+            "id": "e9de1e7efb03de24",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "89a70dae146733d5",
+            "id": "1265b9a480d5b5f5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "7fb67f13515bcdc9",
+            "id": "34a8de653fd0ddc5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "f7e8770225809083",
+            "id": "4b3383ccf9f96d3c",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -146,13 +146,6 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c456482f7819a75c",
-  "lastOpenFiles": [
-    "附件/泛型编程2.jpg",
-    "附件/泛型编程1.jpg",
-    "学习规划.md",
-    "附件",
-    "新建文件夹",
-    "泛型编程1.jpg"
-  ]
+  "active": "9376c5b8649acce3",
+  "lastOpenFiles": []
 }
